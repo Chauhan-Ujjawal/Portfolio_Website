@@ -28,7 +28,11 @@ const Hero = () => {
 
           {/* Floating Model */}
           <Float rotationIntensity={2} rotationAxis="x"  >
-            <Model scale={1} castShadow position={[0, -0.5, 0]} />
+              <Model
+                scale={isMobile ? 0.6 : 1}
+                castShadow
+                position={[0, isMobile ? 1 : -0.5, 0]}
+              />
           </Float>
 
           {/* Soft blurred shadow under the model */}
