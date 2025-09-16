@@ -85,7 +85,6 @@ export const projects = [
       "A deep learning-based model that detects and classifies gender in real-time using video streams and computer vision techniques.",
     href: "",
     image: "/assets/projects/gender-detection.jpeg",
-    bgImage: "/assets/backgrounds/blanket.jpg",
     frameworks: [
       { id: 1, name: "Python" },
       { id: 2, name: "OpenCV" },
@@ -100,7 +99,6 @@ export const projects = [
       "An AI-powered interview preparation platform that evaluates coding, communication, and problem-solving skills with real-time feedback.",
     href: "",
     image: "/assets/projects/HERO_IMG.png",
-    bgImage: "/assets/backgrounds/curtains.jpg",
     frameworks: [
       { id: 1, name: "MERN Stack" },
       { id: 2, name: "Google Gemini API" },
@@ -115,7 +113,6 @@ export const projects = [
       "An intelligent code review tool that analyzes code for performance, readability, and bug risks, providing AI-driven suggestions.",
     href: "",
     image: "/assets/projects/Code-review.png",
-    bgImage: "/assets/backgrounds/map.jpg",
     frameworks: [
       { id: 1, name: "Node.js" },
       { id: 2, name: "Express.js" },
@@ -130,7 +127,6 @@ export const projects = [
       "A MERN-based multi-vendor e-commerce platform enhanced with AI features like product recommendations, smart search, and automated seller analytics.",
     href: "",
     image: "/assets/projects/ecom.png",
-    bgImage: "/assets/backgrounds/poster.jpg",
     frameworks: [
       { id: 1, name: "MongoDB" },
       { id: 2, name: "Express.js" },
@@ -146,7 +142,6 @@ export const projects = [
     "A modern grocery delivery mobile app UI design focusing on seamless user experience with features like quick cart, smart search, order tracking, and personalized recommendations.",
   href: "",
   image: "/assets/projects/UI-UX.png",
-  bgImage: "/assets/backgrounds/table.jpg",
   frameworks: [
     { id: 1, name: "Figma" },
     { id: 2, name: "Adobe XD" },
