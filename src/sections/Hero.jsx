@@ -8,6 +8,7 @@ import { useMediaQuery } from "react-responsive";
 //Media query line missing
 
 const Hero = () => {
+  const isMobile = useMediaQuery({ maxWidth: 853 });
 
 
   const text = `I believe every project deserves both brains and aesthetics, 
